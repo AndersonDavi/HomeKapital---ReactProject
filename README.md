@@ -7,3 +7,5 @@ Abrir terminal en la ruta donde clonó el repositorio
 ### `npm install` para descargar las dependencias
 
 ### `npm start` para lanzar el proyecto
+
+resolucióm recomendadad 450px x 970px
